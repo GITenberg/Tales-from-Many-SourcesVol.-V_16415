@@ -1,0 +1,31 @@
+_repo: Tales-from-Many-SourcesVol.-V_16415
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2005-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+tableOfContents: Lob Lie-By-The-Fire, by Juliana H. Ewing -- Wild Jack, from Temple
+  Bar -- Virginia, by Mrs. Forrester -- Mr. Josiah Smith's Balloon Voyage -- Number
+  7639, by Mary Frances Peard -- Goneril, by A. Mary F. Robinson -- Out of Season,
+  from Temple Bar.
+title: 'Tales from Many Sources
+
+  Vol. V'
+url: http://www.gutenberg.org/ebooks/16415
